@@ -1,0 +1,38 @@
+.container{
+    margin: 10px;
+    
+}
+.col-lg-3{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    height: 300px;
+    width: 200px !important;
+    display: flex;
+    justify-content: center;
+}
+.card-header{
+    background-color: rgb(76, 65, 200) !important;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-body{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+
+}
+img{
+    height: 100px;
+}
+h5{
+    font-size: 12px !important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold !important;
+
+}
